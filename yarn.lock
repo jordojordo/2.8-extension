@@ -2931,10 +2931,10 @@
   resolved "https://registry.npmjs.org/@popperjs/core/-/core-2.4.4.tgz#11d5db19bd178936ec89cd84519c4de439574398"
   integrity sha512-1oO6+dN5kdIA3sKPZhRGJTfGVP4SWV6KqlMOwry4J3HfyD68sl/3KmG7DeYUzvN+RbhXDnv/D8vNNB8168tAMg==
 
-"@rancher/shell@^1.2.3":
-  version "1.2.3"
-  resolved "https://registry.npmjs.org/@rancher/shell/-/shell-1.2.3.tgz#757c6d1f90e73b2ad4bb0bff3c4e17ed65c26804"
-  integrity sha512-98/ejAd37lzWPraykJjzK/PLeD4z01sRlnm8ura5rYBKM9tDOE0Z/kVqcZu3Zr5ELGGcVt+YgYC9uAK7ptDgww==
+"@rancher/shell@^1.2.5-rc.1":
+  version "1.2.5-rc.1"
+  resolved "https://registry.npmjs.org/@rancher/shell/-/shell-1.2.5-rc.1.tgz#3e07b84d0b85e37bba3676f6b904f9822fe39cce"
+  integrity sha512-wCa7KdGGgu/+P5BqIYDMlShDsi1oy7BBgjVkjgHq4nS7nX2BYX7cfBiNh0YUZpX0DVOpjz/T4HnTV83HZUzkmQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.1.0"
     "@aws-sdk/client-eks" "3.1.0"
@@ -14081,7 +14081,7 @@ queue-microtask@^1.2.2:
   resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-rancher-icons@rancher/icons#v2.0.16:
+"rancher-icons@github:rancher/icons#v2.0.16":
   version "2.0.16"
   resolved "https://codeload.github.com/rancher/icons/tar.gz/fc788547982a7800030fe37ad0b40747bec24b1f"
 
