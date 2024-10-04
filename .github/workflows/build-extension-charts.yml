@@ -12,7 +12,7 @@ defaults:
 
 jobs:
   build-extension-charts:
-    uses: jordojordo/dashboard/.github/workflows/build-extension-charts.yml@2.8-ext-publish-workflow
+    uses: jordojordo/dashboard/.github/workflows/build-extension-charts.yml@fix-extension-publish-workflow
     permissions:
       actions: write
       contents: write
