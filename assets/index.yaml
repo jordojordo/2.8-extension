@@ -20,4 +20,24 @@ entries:
     urls:
     - assets/test-2.9/test-2.9-0.1.1.tgz
     version: 0.1.1
-generated: "2024-10-04T12:48:13.930997824Z"
+  test-pkg:
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/kube-version: '>= v1.16.0-0'
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.7.0-0 < 2.11.0-0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+    apiVersion: v2
+    appVersion: 0.3.0
+    created: "2024-10-04T13:16:36.207162751Z"
+    description: test-pkg plugin
+    digest: 64af608df2c6da8f605b77a2c6af885047ca2d22c835a33806d7041c0114f5e2
+    name: test-pkg
+    type: application
+    urls:
+    - assets/test-pkg/test-pkg-0.3.0.tgz
+    version: 0.3.0
+generated: "2024-10-04T13:16:36.206658219Z"
